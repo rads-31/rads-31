@@ -1,4 +1,4 @@
-![logo](https://github.com/rads-31/rads-31/blob/main/computer-screens-modern-infographic-statistics-data-analytics_979520-3964.jpg)
+![logo](https://github.com/rads-31/rads-31/blob/main/computer-screens-modern-infographic-statistics-data-analytics_979520-3964.jpg) align= "middle"
 <h3 align="center">A passionate BI developer from India</h3>
 
 
