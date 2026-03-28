@@ -1,7 +1,7 @@
 ![logo](https://github.com/rads-31/rads-31/blob/main/computer-screens-modern-infographic-statistics-data-analytics_979520-3964.jpg)
 <h3 align="center">A passionate BI developer from India</h3>
 
-<img align="right"alt="coding" width="400" src=https://www.bing.com/images/search?q=1080X720+Anime+Girl+Coding+GIF&FORM=IRTRRL>
+
 
 <p align="left"> <img src=https://thumbs.dreamstime.com/b/dive-serene-atmosphere-anime-girl-engrossed-her-work-night-stunning-cityscape-full-moon-visible-358128122.jpg>
 <h3 align="left">Connect with me:</h3>
