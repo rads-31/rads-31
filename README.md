@@ -3,7 +3,7 @@
 
 <img align="right"alt="coding" width="400" src=https://www.bing.com/images/search?q=1080X720+Anime+Girl+Coding+GIF&FORM=IRTRRL>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rads-31&label=Profile%20views&color=0e75b6&style=flat" alt="rads-31" /> </p>
+<p align="left"> <img src="https://thumbs.dreamstime.com/b/dive-serene-atmosphere-anime-girl-engrossed-her-work-night-stunning-cityscape-full-moon-visible-358128122.jpg> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
